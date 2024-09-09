@@ -1,5 +1,8 @@
 first feature
 second feature
 dev1 code
+{ int i;
+  
+}
 dev2 code
 
